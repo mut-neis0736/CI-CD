@@ -1,1 +1,1 @@
-# NEIS0736 CI-CD
+# NEIS0736 CI-CD (TermProject)
